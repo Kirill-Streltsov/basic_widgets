@@ -7,7 +7,6 @@ void main() {
 }
 
 class Fooderlich extends StatelessWidget {
-  // 2
   const Fooderlich({super.key});
   @override
   Widget build(BuildContext context) {
