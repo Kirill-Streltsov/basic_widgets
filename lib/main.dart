@@ -3,7 +3,6 @@ import 'fooderlich_theme.dart';
 import 'home.dart';
 
 void main() {
-  // 1
   runApp(const Fooderlich());
 }
 
